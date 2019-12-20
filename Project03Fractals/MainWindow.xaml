@@ -1,0 +1,48 @@
+﻿<Window x:Class="Project03Fractals.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="3D Fractal Generator" Height="543" Width="863" Loaded="Window_Loaded" WindowStyle="ThreeDBorderWindow">
+    <Grid Background="#FFF4FFD8">
+        <Slider Height="24" HorizontalAlignment="Left" Margin="10,150,0,0" Name="slider1" VerticalAlignment="Top" Width="175" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="10,216,0,0" Name="slider2" VerticalAlignment="Top" Width="175" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="10,279,0,0" Name="slider3" VerticalAlignment="Top" Width="175" />
+        <Button Content="Zoom In" Height="37" HorizontalAlignment="Left" Margin="29,419,0,0" Name="zoomIn" VerticalAlignment="Top" Width="57" Click="zoomIn_Click" />
+        <Button Content="Zoom Out" Height="37" HorizontalAlignment="Left" Margin="107,419,0,0" Name="zoomOut" VerticalAlignment="Top" Width="61" Click="zoomOut_Click" />
+        <Button Content="Draw" Height="37" HorizontalAlignment="Left" Margin="49,341,0,0" Name="button1" VerticalAlignment="Top" Width="101" Click="button1_Click" />
+        <Label Content="Height" Height="28" Margin="75,122,671.8,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Breadth" Height="28" HorizontalAlignment="Left" Margin="75,190,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Complexity" Height="28" HorizontalAlignment="Left" Margin="68,253,0,0" Name="label3" VerticalAlignment="Top" />
+        <ComboBox Height="26" HorizontalAlignment="Left" Margin="10,43,0,0" 
+		Name="fractalComboBox" VerticalAlignment="Top" Width="175" SelectionChanged="fractalComboBox_SelectionChanged" SelectedIndex="0">
+            <ComboBoxItem>Select a Fractal</ComboBoxItem>
+            <ComboBoxItem>Fern</ComboBoxItem>
+            <ComboBoxItem>Tree</ComboBoxItem>
+            <ComboBoxItem>Landscape</ComboBoxItem>
+        </ComboBox>
+        <Label Content="Trees?" Height="28" HorizontalAlignment="Left" Visibility="Hidden" Margin="29,81,0,0" Name="label4" VerticalAlignment="Top" Width="85" />
+        <CheckBox HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" Margin="15,88,0,0" Visibility="Hidden" Name="checkBox1" IsChecked="False" Width="21" Height="21"/>
+        <Grid Background="#FFFFFFFF" Margin="207,18,17.8,18.6">
+            <Viewport3D Name="myViewport3D">
+                <Viewport3D.Camera>
+                    <PerspectiveCamera
+                            x:Name="camMain"
+                            Position="30 30 20"
+                            LookDirection="-6 -5 -4"
+                            UpDirection="0 1 0"
+                            FarPlaneDistance="500"
+                            NearPlaneDistance="0"
+                            FieldOfView="60">
+                    </PerspectiveCamera>
+                </Viewport3D.Camera>
+                <ModelVisual3D>
+                    <ModelVisual3D.Content>
+                        <DirectionalLight
+                            Color="White"
+                            Direction="-1 -1 -1">
+                        </DirectionalLight>
+                    </ModelVisual3D.Content>
+                </ModelVisual3D>
+            </Viewport3D>
+        </Grid>
+    </Grid>
+</Window>

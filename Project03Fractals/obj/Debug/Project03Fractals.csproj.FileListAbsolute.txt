@@ -1,0 +1,54 @@
+D:\VS Projects\Project03Fractals\bin\Debug\Project03Fractals.exe.config
+D:\VS Projects\Project03Fractals\bin\Debug\Project03Fractals.exe
+D:\VS Projects\Project03Fractals\bin\Debug\Project03Fractals.pdb
+D:\VS Projects\Project03Fractals\obj\Debug\Project03Fractals.csprojAssemblyReference.cache
+D:\VS Projects\Project03Fractals\obj\Debug\MainWindow.baml
+D:\VS Projects\Project03Fractals\obj\Debug\MainWindow.g.cs
+D:\VS Projects\Project03Fractals\obj\Debug\App.g.cs
+D:\VS Projects\Project03Fractals\obj\Debug\Project03Fractals_MarkupCompile.cache
+D:\VS Projects\Project03Fractals\obj\Debug\Project03Fractals.g.resources
+D:\VS Projects\Project03Fractals\obj\Debug\Project03Fractals.Properties.Resources.resources
+D:\VS Projects\Project03Fractals\obj\Debug\Project03Fractals.csproj.GenerateResource.cache
+D:\VS Projects\Project03Fractals\obj\Debug\Project03Fractals.exe
+D:\VS Projects\Project03Fractals\obj\Debug\Project03Fractals.pdb
+C:\Users\hj48\Downloads\Project03Fractals\bin\Debug\Project03Fractals.exe.config
+C:\Users\hj48\Downloads\Project03Fractals\bin\Debug\Project03Fractals.exe
+C:\Users\hj48\Downloads\Project03Fractals\bin\Debug\Project03Fractals.pdb
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\Project03Fractals.csprojAssemblyReference.cache
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\MainWindow.baml
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\MainWindow.g.cs
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\App.g.cs
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\Project03Fractals_MarkupCompile.cache
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\Project03Fractals.g.resources
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\Project03Fractals.Properties.Resources.resources
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\Project03Fractals.csproj.GenerateResource.cache
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\Project03Fractals.csproj.CoreCompileInputs.cache
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\Project03Fractals.exe
+C:\Users\hj48\Downloads\Project03Fractals\obj\Debug\Project03Fractals.pdb
+H:\cs212\Project03Fractals\bin\Debug\Project03Fractals.exe.config
+H:\cs212\Project03Fractals\bin\Debug\Project03Fractals.exe
+H:\cs212\Project03Fractals\bin\Debug\Project03Fractals.pdb
+H:\cs212\Project03Fractals\obj\Debug\Project03Fractals.csprojAssemblyReference.cache
+H:\cs212\Project03Fractals\obj\Debug\MainWindow.baml
+H:\cs212\Project03Fractals\obj\Debug\MainWindow.g.cs
+H:\cs212\Project03Fractals\obj\Debug\App.g.cs
+H:\cs212\Project03Fractals\obj\Debug\Project03Fractals_MarkupCompile.cache
+H:\cs212\Project03Fractals\obj\Debug\Project03Fractals.g.resources
+H:\cs212\Project03Fractals\obj\Debug\Project03Fractals.Properties.Resources.resources
+H:\cs212\Project03Fractals\obj\Debug\Project03Fractals.csproj.GenerateResource.cache
+H:\cs212\Project03Fractals\obj\Debug\Project03Fractals.csproj.CoreCompileInputs.cache
+H:\cs212\Project03Fractals\obj\Debug\Project03Fractals.exe
+H:\cs212\Project03Fractals\obj\Debug\Project03Fractals.pdb
+C:\Users\hyech\Downloads\Project03Fractals\bin\Debug\Project03Fractals.exe.config
+C:\Users\hyech\Downloads\Project03Fractals\bin\Debug\Project03Fractals.exe
+C:\Users\hyech\Downloads\Project03Fractals\bin\Debug\Project03Fractals.pdb
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\Project03Fractals.csprojAssemblyReference.cache
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\MainWindow.baml
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\MainWindow.g.cs
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\App.g.cs
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\Project03Fractals_MarkupCompile.cache
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\Project03Fractals.g.resources
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\Project03Fractals.Properties.Resources.resources
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\Project03Fractals.csproj.GenerateResource.cache
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\Project03Fractals.exe
+C:\Users\hyech\Downloads\Project03Fractals\obj\Debug\Project03Fractals.pdb
